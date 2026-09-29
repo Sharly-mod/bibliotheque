@@ -1,0 +1,11 @@
+# Fichier de connexion local : contient les identifiants MySQL, jamais versionne.
+# Le gabarit config.example.php est, lui, versionné.
+config.php
+
+.DS_Store
+Thumbs.db
+*.log
+
+# Fichiers téléversés par les utilisateurs
+uploads/*
+!uploads/.gitkeep
